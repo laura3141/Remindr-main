@@ -1,0 +1,3 @@
+# Project exclude paths
+/remindr/.dart_tool/
+/remindr/build/
